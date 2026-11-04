@@ -1,6 +1,6 @@
 # Hi, I'm Kevin Kiprotich 👋
 
-**Software Developer at Brisk Credit Limited** · Nakuru, Kenya 🇰🇪
+**Software Developer at Brisk Credit Limited** · Nairobi, Kenya 🇰🇪
 
 I build web applications and business systems: company websites, internal portals, payment integrations and the databases behind them. I also have a background in enterprise networking (Cisco, LAN/WAN, fibre optics, SCADA), so I understand both the code and the infrastructure it runs on.
 
